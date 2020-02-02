@@ -15,6 +15,7 @@ sortBtnAsc.addEventListener('click', sortByRichestAsc);
 showMillionairesBtn.addEventListener('click', showMillionaires);
 calculateWealthBtn.addEventListener('click', calculateWealth);
 
+// Initial data array
 let data = [];
 
 // Start with 3 random users
